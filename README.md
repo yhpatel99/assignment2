@@ -15,6 +15,7 @@ Libraries and Modules:
 
 Input:
   The program will ask you for the following inputs -
+   
     1. password type
     2. memorable password options
     3. random password options
